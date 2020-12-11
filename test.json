@@ -1,7 +1,7 @@
 {
    "swagger":"2.0",
    "info":{
-      "description":"This is a sample server Petstore serv<input onfocus=alert(1)>er.  You can find out more about Swagger at [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).  For this sample, you can use the api key `special-key` to test the authorization filters.",
+      "description":"This is a sample<script\x20type="text/javascript">javascript:alert(1);</script> server Petstore serv<input onfocus=alert(1)>er.  You can find out more about Swagger at [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).  For this sample, you can use the api key `special-key` to test the authorization filters.",
       "version":"1.0.5",
       "title":"Swagger Petstore",
       "termsOfService":"http://swagger.io/terms/",
